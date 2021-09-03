@@ -1,0 +1,206 @@
+t-test for gender : pval is 0.11000255374258584
+t-test for age_50 : pval is 0.014148673415084098
+t-test for SIM_agg : pval is 0.0003827843782657421
+t-test for vaccine_bool : pval is 0.11994907765989336
+ANOVA results for all drugs :  F_onewayResult(statistic=3.8494161575551997, pvalue=0.009401573507520687)
+t-test for gender : pval is 0.11000255374258584
+t-test for age_50 : pval is 0.014148673415084098
+t-test for SIM_agg : pval is 0.0003827843782657421
+t-test for vaccine_bool : pval is 0.2276997923958606
+ANOVA results for all drugs :  F_onewayResult(statistic=3.8494161575551997, pvalue=0.009401573507520687)
+t-test for gender : pval is 0.11000255374258584
+t-test for age_50 : pval is 0.014148673415084098
+t-test for SIM_agg : pval is 0.0003827843782657421
+t-test for vaccine_bool : pval is nan
+t-test for gender : pval is 0.11000255374258584
+t-test for age_50 : pval is 0.014148673415084098
+t-test for SIM_agg : pval is 0.0003827843782657421
+t-test for vaccine_bool : pval is 0.11994907765989336
+ANOVA results for all drugs :  F_onewayResult(statistic=3.8494161575551997, pvalue=0.009401573507520687)
+age : SPEARMAN pval is nan , rho is nan    
+vaccine_days : SPEARMAN pval is nan , rho is nan    
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+ANOVA results for all drugs :  F_onewayResult(statistic=3.1953911182385504, pvalue=0.02310825979141593)
+age : SPEARMAN pval is 0.018002537855923217 , rho is -0.3551347432357001    
+vaccine_days : SPEARMAN pval is 0.1340086935305306 , rho is -0.2294837133117673    
+age : PEARSON pval is 0.0378014810295072 , rho is -0.31418662815604714    
+vaccine_days : PEARSON pval is 0.20520329128167306 , rho is -0.19475896090913908    
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.04780721954530781
+t-test for age_50 : pval is 0.029625820756386815
+t-test for SIM_agg : pval is 0.0015306349923275087
+t-test for vaccine_bool : pval is 0.14055756717777196
+t-test for gender : pval is 0.06411494027805267
+t-test for age_50 : pval is 2.469198949701074e-20
+t-test for SIM_agg : pval is 0.2570391583077217
+t-test for vaccine_bool : pval is 0.1685359493444308
+ANOVA results for all drugs :  F_onewayResult(statistic=3.139010859875165, pvalue=0.024012489477573812)
+age : SPEARMAN pval is 3.7964902061033555e-28 , rho is -0.1883438038579043    
+vaccine_days : SPEARMAN pval is nan , rho is nan    
+age : PEARSON pval is 2.349602809177462e-29 , rho is -0.19251341088151916    
+t-test for gender : pval is 0.06411494027805267
+t-test for age_50 : pval is 2.469198949701074e-20
+t-test for SIM_agg : pval is 0.0009573337493166782
+t-test for vaccine_bool : pval is 0.1685359493444308
+ANOVA results for all drugs :  F_onewayResult(statistic=3.139010859875165, pvalue=0.024012489477573812)
+ANOVA results for all drugs :  F_onewayResult(statistic=2.2589286071466868, pvalue=0.046090341116733456)
+ANOVA results for all drugs :  F_onewayResult(statistic=2.2589286071466868, pvalue=0.046090341116733456)
+ANOVA results for all drugs :  F_onewayResult(statistic=2.2589286071466868, pvalue=0.046090341116733456)
+ANOVA results for all drugs :  F_onewayResult(statistic=5.40356116177967, pvalue=0.004539838230771355)
+t-test for gender : pval is 0.031523812624338586
+t-test for age_50 : pval is 2.5495693262846937e-20
+t-test for SIM_agg : pval is 0.002317727620549317
+t-test for vaccine_bool : pval is 0.20325507003318433
+ANOVA results for all drugs :  F_onewayResult(statistic=2.0612544442915093, pvalue=0.06729431698384998)
+ANOVA results for all drugs :  F_onewayResult(statistic=4.981059064881933, pvalue=0.006917776683605842)
+t-test for gender : pval is 0.06411494027805267
+t-test for age_50 : pval is 2.469198949701074e-20
+t-test for SIM_agg : pval is 0.0009573337493166782
+t-test for vaccine_bool : pval is 0.1685359493444308
+ANOVA results for all drugs :  F_onewayResult(statistic=2.2589286071466868, pvalue=0.046090341116733456)
+ANOVA results for all drugs :  F_onewayResult(statistic=5.40356116177967, pvalue=0.004539838230771355)
+age : SPEARMAN pval is 3.7964902061033555e-28 , rho is -0.1883438038579043    
+vaccine_days : SPEARMAN pval is nan , rho is nan    
+age : PEARSON pval is 2.349602809177462e-29 , rho is -0.19251341088151916    
+t-test for gender : pval is 0.06411494027805267
+t-test for age_50 : pval is 2.469198949701074e-20
+t-test for SIM_agg : pval is 0.0009573337493166782
+t-test for vaccine_bool : pval is 0.1685359493444308
+ANOVA results for all drugs :  F_onewayResult(statistic=2.2589286071466868, pvalue=0.046090341116733456)
+ANOVA results for all drugs :  F_onewayResult(statistic=5.40356116177967, pvalue=0.004539838230771355)
+t-test for gender : pval is 0.17291629126651456
+t-test for age_50 : pval is 0.013664357602805733
+t-test for SIM_agg : pval is 0.49149401987353536
+t-test for vaccine_bool : pval is 0.2981676050962328
+t-test for gender : pval is 0.17291629126651456
+t-test for age_50 : pval is 0.28530282542714086
+t-test for SIM_agg : pval is 0.49149401987353536
+t-test for vaccine_bool : pval is 0.2981676050962328
+t-test for gender : pval is 0.20117839189881123
+t-test for age_50 : pval is 0.6060372667793298
+t-test for SIM_agg : pval is 0.00459220326048453
+t-test for vaccine_bool : pval is 0.8155753744063796
+t-test for gender : pval is 0.20117839189881123
+t-test for age_50 : pval is 0.6060372667793298
+t-test for SIM_agg : pval is 0.00459220326048453
+t-test for vaccine_bool : pval is 0.8155753744063796
+t-test for gender : pval is 0.9403586890000151
+t-test for age_50 : pval is 0.5807669126757518
+t-test for SIM_agg : pval is 0.020349638813644672
+t-test for gender : pval is 0.9403586890000151
+t-test for age_50 : pval is 0.5807669126757518
+t-test for SIM_agg : pval is 0.020349638813644672
+t-test for gender : pval is 0.11074699766571448
+t-test for age_50 : pval is 0.84354101535888
+t-test for SIM_agg : pval is 0.08985344662085024
+t-test for gender : pval is 0.9403586890000151
+t-test for age_50 : pval is 0.5807669126757518
+t-test for SIM_agg : pval is 0.020349638813644672
+t-test for gender : pval is 0.11074699766571448
+t-test for age_50 : pval is 0.84354101535888
+t-test for SIM_agg : pval is 0.08985344662085024
+t-test for gender : pval is 0.9403586890000151
+t-test for age_50 : pval is 0.5807669126757518
+t-test for SIM_agg : pval is 0.020349638813644672
+t-test for gender : pval is 0.11074699766571448
+t-test for age_50 : pval is 0.84354101535888
+t-test for SIM_agg : pval is 0.08985344662085024
+ANOVA results for all drugs :  F_onewayResult(statistic=nan, pvalue=nan)
+ANOVA results for all drugs :  F_onewayResult(statistic=nan, pvalue=nan)
+ANOVA results for all drugs :  F_onewayResult(statistic=nan, pvalue=nan)
+ANOVA results for all drugs :  F_onewayResult(statistic=nan, pvalue=nan)
+ANOVA results for all drugs :  F_onewayResult(statistic=4.667750481563356, pvalue=0.003021470747324523)
+t-test for gender : pval is 0.9403586890000151
+t-test for age_50 : pval is 0.5807669126757518
+t-test for SIM_agg : pval is 0.020349638813644672
+t-test for gender : pval is 0.11074699766571448
+t-test for age_50 : pval is 0.84354101535888
+t-test for SIM_agg : pval is 0.08985344662085024
+t-test for gender : pval is 0.9403586890000151
+t-test for age_50 : pval is 0.5807669126757518
+t-test for SIM_agg : pval is 0.020349638813644672
+t-test for gender : pval is 0.11074699766571448
+t-test for age_50 : pval is 0.84354101535888
+t-test for SIM_agg : pval is 0.08985344662085024
+t-test for gender : pval is 0.20117839189881123
+t-test for age_50 : pval is 0.6060372667793298
+t-test for SIM_agg : pval is 0.00459220326048453
+t-test for vaccine_bool : pval is 0.8155753744063796
+t-test for gender : pval is 0.9403586890000151
+t-test for age_50 : pval is 0.5807669126757518
+t-test for SIM_agg : pval is 0.020349638813644672
+t-test for arthiritis : pval is 0.05618559472391258
+t-test for metabolic : pval is 0.43309608933082433
+t-test for gender : pval is 0.11074699766571448
+t-test for age_50 : pval is 0.84354101535888
+t-test for SIM_agg : pval is 0.08985344662085024
+t-test for arthiritis : pval is 0.688284413669747
+t-test for metabolic : pval is 0.7747435393231051
+t-test for gender : pval is 0.20117839189881123
+t-test for age_50 : pval is 0.6060372667793298
+t-test for SIM_agg : pval is 0.00459220326048453
+t-test for vaccine_bool : pval is 0.8155753744063796
+t-test for gender : pval is 0.20117839189881123
+t-test for age_50 : pval is 0.6060372667793298
+t-test for SIM_agg : pval is 0.00459220326048453
+t-test for vaccine_bool : pval is 0.8155753744063796
+t-test for gender : pval is 0.20117839189881123
+t-test for age_50 : pval is 0.6060372667793298
+t-test for SIM_agg : pval is 0.00459220326048453
+t-test for vaccine_bool : pval is 0.8155753744063796
+t-test for gender : pval is 0.20117839189881123
+t-test for age_50 : pval is 0.6060372667793298
+t-test for SIM_agg : pval is 0.00459220326048453
+t-test for vaccine_bool : pval is 0.8155753744063796
+t-test for arthiritis : pval is 0.2478135040552546
+t-test for metabolic : pval is 0.49990119278432377
